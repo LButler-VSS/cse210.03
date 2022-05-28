@@ -1,4 +1,5 @@
 ﻿using System;
+using Unit3.Game;
 
 namespace Unit3
 {
@@ -6,7 +7,8 @@ namespace Unit3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Director director = new Director();
+            director.StartGame();
         }
     }
 }

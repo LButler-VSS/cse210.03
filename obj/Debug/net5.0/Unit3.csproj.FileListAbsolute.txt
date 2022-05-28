@@ -1,0 +1,16 @@
+F:\School\CSE 210\Projects\Unit3\bin\Debug\net5.0\Unit3.exe
+F:\School\CSE 210\Projects\Unit3\bin\Debug\net5.0\Unit3.deps.json
+F:\School\CSE 210\Projects\Unit3\bin\Debug\net5.0\Unit3.runtimeconfig.json
+F:\School\CSE 210\Projects\Unit3\bin\Debug\net5.0\Unit3.runtimeconfig.dev.json
+F:\School\CSE 210\Projects\Unit3\bin\Debug\net5.0\Unit3.dll
+F:\School\CSE 210\Projects\Unit3\bin\Debug\net5.0\ref\Unit3.dll
+F:\School\CSE 210\Projects\Unit3\bin\Debug\net5.0\Unit3.pdb
+F:\School\CSE 210\Projects\Unit3\obj\Debug\net5.0\Unit3.csproj.AssemblyReference.cache
+F:\School\CSE 210\Projects\Unit3\obj\Debug\net5.0\Unit3.GeneratedMSBuildEditorConfig.editorconfig
+F:\School\CSE 210\Projects\Unit3\obj\Debug\net5.0\Unit3.AssemblyInfoInputs.cache
+F:\School\CSE 210\Projects\Unit3\obj\Debug\net5.0\Unit3.AssemblyInfo.cs
+F:\School\CSE 210\Projects\Unit3\obj\Debug\net5.0\Unit3.csproj.CoreCompileInputs.cache
+F:\School\CSE 210\Projects\Unit3\obj\Debug\net5.0\Unit3.dll
+F:\School\CSE 210\Projects\Unit3\obj\Debug\net5.0\ref\Unit3.dll
+F:\School\CSE 210\Projects\Unit3\obj\Debug\net5.0\Unit3.pdb
+F:\School\CSE 210\Projects\Unit3\obj\Debug\net5.0\Unit3.genruntimeconfig.cache
