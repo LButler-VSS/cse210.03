@@ -8,15 +8,19 @@ namespace Unit3.Game
         {
         }
 
-        public string ReadText(string prompt)
+        public char Read(string prompt)
         {
             Console.WriteLine(prompt);
-            return Console.ReadLine();
+            char guess = char.Parse(Console.ReadLine());
+            return guess;
         }
 
-        public void WriteText(string prompt)
+        public void Print(string prompt)
         {
+            Console.WriteLine("");
             Console.WriteLine(prompt);
         }
+
+
     }
 }

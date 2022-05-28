@@ -7,8 +7,12 @@ namespace Unit3
     {
         static void Main(string[] args)
         {
-            Director director = new Director();
-            director.StartGame();
+            bool playAgain = true;
+            while (playAgain)
+            {
+                Director director = new Director();
+                playAgain = director.StartGame();
+            }
         }
     }
 }
