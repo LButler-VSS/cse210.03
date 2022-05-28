@@ -28,7 +28,7 @@ namespace Unit3.Game
         {
             int line = rng.Next(12947) - 1;
             word = File.ReadLines(path).Skip(line).Take(1).First();
-            Console.WriteLine($"{word}, {line + 1}");
+            //Console.WriteLine($"{word}, {line + 1}");
         }
 
         public void CheckGuess(char guess)

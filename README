@@ -10,3 +10,6 @@ If the puzzle is solved the game is over.
 If the player has no more parachute the game is over.
 
 After the game is over, the user will be asked if they would like to play again.
+
+Word is pulled from a file containing a list of 5 letter words used for popular
+word puzzle game wordle.
